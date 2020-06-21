@@ -1,7 +1,7 @@
 # Quiz
 iOS Quiz App
 
-Asks the user many different questions.
+Asks the user many different questions. <br/>
 Right or wrong answers are indicated with green or red.
 Upon each correct answer, the app increases the score by 1.
 The status bar also increases with each question answered. 
